@@ -1,5 +1,5 @@
 ---
-title: Burnout Resources
+title: Burnout Resources12
 menus:
   main:
     title: Resources
